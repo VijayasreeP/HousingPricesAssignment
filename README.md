@@ -1,5 +1,6 @@
 # Project Name
-> Outline a brief description of your project.
+> US based housing company is in property resale business and wants to expand in Australia market. Company wants to understand the variables that impacts the House price so that they can build the strategy accordingly
+The objective of this exercise is to build a model that predicts the future house prices based on the most signnificant variables that impact the price
 
 
 ## Table of Contents
@@ -19,18 +20,15 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Analysis of the most important predictor variables
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Linear Regression
+- Lasso Regression
+- Ridge Regression
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
